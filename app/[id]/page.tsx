@@ -88,7 +88,7 @@ const IndividualPdf = ({ params: { id } }: { params: { id: string } }) => {
           </div>
         </div>
 
-        <div className="flex bg-blue-500 p-3 rounded-full max-w-96 mx-auto">
+        <div className="flex bg-blue-500 p-3 rounded-full max-w-96 mx-auto -mt-32 relative z-0">
           <div className="flex space-x-2">
             <span className="bg-white rounded-full p-2 text-blue-500">
               <IoIosArrowUp />

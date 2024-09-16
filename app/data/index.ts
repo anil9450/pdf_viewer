@@ -8,7 +8,7 @@ export const data = [
     tr: "123",
     eye: "121",
     id: "1",
-    pdf: "./a3.pdf",
+    pdf: "./a4.pdf",
   },
   {
     img: "/img2.png",
